@@ -13,12 +13,14 @@
 
 ###
 
-<p align="center">Visits :</p>
+<p align="center"> Visits :</p>
 
 ###
 
 <div align="center">
+  
   <img src="https://profile-counter.glitch.me/VictorSamuell/count.svg?"  />
+  
 </div>
 
 ###
