@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left"> I'm Victor Samuel , i have experience in the field of Computing, with emphasis on Computer Science, currently taking a technical course in Computing at IFSP - Campus Campinas, and working as a Computational Support Analyst at DLIE - Unicamp</p>
+<p align="left"> I'm Victor Samuel , i have experience in the field of Computing, with emphasis on Computer Science, currently taking a technical course in Computing at IFSP - Campus Campinas, and working as a Computational Support Analyst at DLIE - Unicamp. </p>
 
 
 ###
