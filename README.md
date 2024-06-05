@@ -23,7 +23,7 @@
 
 <div align="center">
   
-  <img src="https://profile-counter.glitch.me/VictorSamuell/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/VictorSamuell/count.svg?" />
   
 </div>
 
