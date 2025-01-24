@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center"> Visits :</p>
+<p align="center"> Visits:</p>
 
 ###
 
