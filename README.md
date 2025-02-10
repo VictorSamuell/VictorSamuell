@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Victor Samuel dos Santos
   
-🌐 [LinkedIn](https://www.linkedin.com/in/victorsamuell)  
+🌐 [LinkedIn](https://www.linkedin.com/in/victor-samuel-dos-santos-6032a234a/)  
 🔗 [GitHub](https://github.com/VictorSamuell)  
 
 ---
