@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Victor Samuel dos Santos
-  
+
+📧 victorsamklv@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/victor-samuel-dos-santos-6032a234a/)   
 
 ---
