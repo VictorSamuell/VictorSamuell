@@ -28,7 +28,6 @@ I’m a tech enthusiast with a passion for software development. I have experien
 
 ---
 
-
 ## 🎓 Education  
 📌 **Instituto Federal de São Paulo - Campinas Campus**  
 *Technical Informatics Integrated with High School* 
