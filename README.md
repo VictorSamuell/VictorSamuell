@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me  
-Future Back-End Developer | Interested in Front-End | JavaScript, React, Node.js | SQL Server, MySQL | Git, GitHub, GitLab
+| Python , Django , Javascript | SQL Server, MySQL | Git, GitHub, GitLab
 
-I’m a tech enthusiast with a passion for software development. I have experience in technical support and scientific research, always looking to improve my skills in languages like **JavaScript, Node.js, and React**. Fluent in English, I am ready to work on international projects and collaborate with global teams.
+I’m a tech student with a passion for software development. I have experience in technical support and scientific research, always looking to improve my skills in languages like **Python, Django, and Javascript**. Fluent in English, I am ready to work on international projects and collaborate with global teams.
 
 ---
 
