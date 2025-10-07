@@ -2,7 +2,7 @@
 
 📧 victorsamklv@gmail.com
 
-🌐 [LinkedIn](www.linkedin.com/in/victor-samuel-dos-santos/)   
+🌐 [LinkedIn](https://www.linkedin.com/in/victor-samuel-dos-santos/)   
 
 ---
 
