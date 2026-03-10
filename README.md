@@ -29,6 +29,9 @@ I’m a tech student with a passion for software development. I have experience 
 ---
 
 ## 🎓 Education  
+📌 **Universidade Estadual de Campinas - Unicamp**  
+*Bachelor’s Degree in Information Systems* 
+
 📌 **Instituto Federal de São Paulo - Campinas Campus**  
 *Technical Informatics Integrated with High School* 
 
