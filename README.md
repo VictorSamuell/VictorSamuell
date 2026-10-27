@@ -1,82 +1,77 @@
 # 👋 Hi, I’m Victor Samuel dos Santos
 
-📧 victorsamklv@gmail.com
+**Information Systems @ Unicamp | Backend & Automation Developer | Ex-CNPq Researcher**
 
-🌐 [LinkedIn](https://www.linkedin.com/in/victor-samuel-dos-santos/)   
-
----
-
-## 🚀 About Me  
-| Python , Django , Javascript | SQL Server, MySQL | Git, GitHub, GitLab
-
-I’m a tech student with a passion for software development. I have experience in technical support and scientific research, always looking to improve my skills in languages like **Python, Django, and Javascript**. Fluent in English, I am ready to work on international projects and collaborate with global teams.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-samuel-dos-santos/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorsamklv@gmail.com)
 
 ---
 
-## 💼 Professional Experience  
-### **Unicamp - University of Campinas**  
-📌 *Technical Support Intern*   
-- Provided technical support and system maintenance.  
-- Managed networks and IT infrastructure.  
-- Assisted users and resolved technical issues.
+## 🚀 About Me
 
-### **CNPq - National Council for Scientific and Technological Development**  
-📌 *Junior Scientific Initiation Scholar* 
-- Conducted research and scientific development.  
-- Collected and analyzed data.  
-- Prepared technical reports and presentations.
+I'm an Information Systems student at **Unicamp** and a backend-focused developer with **1,600+ hours** of hands-on IT and software experience. 
+
+Graduated as an IT Technician from **IFSP Campinas**, I built my foundation across software development, database architecture, and network infrastructure. Currently, I focus on **backend development and process automation** at **Generation Brasil**, building workflows with Python and Microsoft Power Automate to eliminate manual operational overhead, while also working across the full stack with React, TypeScript, and Node.js.
+
+- 🌍 **Languages:** Portuguese (Native) & English (Fluent — ready for global teams)
+- 🏆 **Highlights:** Silver Medalist at *Maratona Tech* | Gold Medalist at *ONC, OBA & IPHCO* | Bronze at *OBMEP*
 
 ---
 
-## 🎓 Education  
-📌 **Universidade Estadual de Campinas - Unicamp**  
-*Bachelor’s Degree in Information Systems* 
+## 🛠️ Tech Stack
 
-📌 **Instituto Federal de São Paulo - Campinas Campus**  
-*Technical Informatics Integrated with High School* 
+**Languages & Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Databases, Data & Automation**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<!--
-<h1 align="left"> Hey 👋 What's up?</h1>
+**Tools & Workflow**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-###
+---
 
-<p align="left"> I'm Victor Samuel , i have experience in the field of Computing, with emphasis on Computer Science, currently taking a technical course in Computing at IFSP - Campus Campinas, and working as a Computational Support Analyst at DLIE - Unicamp. </p>
+## 💼 Professional Experience
 
-###
+### **Generation Brasil** — *Technology Resident*  
+🗓️ *Apr 2026 – Present*  
+- Developing and deploying automation workflows using **Python** and **Microsoft Power Automate** to optimize operational processes.
+- Analyzing data and building reports with **Power BI** and Excel.
+- Collaborating in a fully remote Agile/Scrum environment using **Jira**, **Confluence**, and **Slack**.
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorSamuell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-  
-</div>
+### **CNPq** — *Junior Scientific Initiation Scholar*  
+🗓️ *Dec 2023 – Dec 2024*  
+- Built a web application integrating the **IBGE API** and **MapboxGL** to visualize geographic name distribution patterns (anthroponomastics) across Brazil.
+- Co-developed the platform and presented findings at **FECCIF 2023** (Awarded Project).
 
-###
+### **Unicamp (University of Campinas)** — *IT Support Analyst (Intern)*  
+🗓️ *Feb 2023 – Dec 2024*  
+- Accumulated **1,600+ hours** of hands-on infrastructure and systems support across university labs and departments.
+- Automated large-scale OS deployment and disk cloning across multiple machines using **Clonezilla** and **Ventoy**.
+- Managed hardware maintenance, network troubleshooting, and end-user support across **Windows** and **Linux** environments.
 
-<p align="center"> Visits:</p>
+### **Samsung Brasil** — *Production Assistant - IQC (Apprentice)*  
+🗓️ *Dec 2025 – Feb 2026*  
+- Executed incoming quality control (IQC) inspections in a high-volume manufacturing line, ensuring strict compliance with component standards and technical documentation.
 
-###
+---
 
-<div align="center">
-  
-  <img src="https://profile-counter.glitch.me/VictorSamuell/count.svg?"/>
-  
-</div>
+## 🎓 Education & Certifications
 
-###
-
-**VictorSamuell/VictorSamuell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **B.S. in Information Systems** — *Universidade Estadual de Campinas (Unicamp)* `(2026 – 2029)`
+- 💻 **Technical Degree in Informatics** — *Instituto Federal de São Paulo (IFSP - Campinas)* `(2022 – 2025)`
+- 📜 **Backend Development with Python & Django (200h)** — *Instituto Hardware BR (Bolsa Futuro Digital)*
