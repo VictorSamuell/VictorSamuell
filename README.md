@@ -48,7 +48,7 @@ Graduated as an IT Technician from **IFSP Campinas**, I built my foundation acro
 ## 💼 Professional Experience
 
 ### **Generation Brasil** — *Technology Resident*  
-🗓️ *Apr 2026 – Present*  
+🗓️ *Apr 2026 – Jul 2026*  
 - Developing and deploying automation workflows using **Python** and **Microsoft Power Automate** to optimize operational processes.
 - Analyzing data and building reports with **Power BI** and Excel.
 - Collaborating in a fully remote Agile/Scrum environment using **Jira**, **Confluence**, and **Slack**.
